@@ -12,6 +12,9 @@ The trained model is deployed using Streamlit, allowing users to interact with t
 
 ---
 
+## Deployed link
+https://mnist-classification-ann-3kovbacqtepg8r2h4y4gcm.streamlit.app/
+
 ## 📂 Project Structure
 
 ```text
